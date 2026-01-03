@@ -60,4 +60,6 @@ Designed for warehouse automation and inventory patrol scenarios • Scalable ar
 [Click here to watch the autonomous navigation video](demo.mp4)
 
 **Source Code:**
-[Download Project Code (Zip)](amr_mission.zip)
+- [ Browse Code Online](amr_mission/)
+- [Download Zip](amr_mission.zip)
+
