@@ -39,5 +39,19 @@ source ~/.bashrc
 cd ~/turtlebot3_ws
 colcon build --symlink-install
 source install/setup.bash
+```
+
+## Usage
+```bash
+# Terminal 1: Start Gazebo simulation
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+
+# Terminal 2: Launch SLAM Toolbox
+ros2 launch slam_toolbox online_async_launch.py
+
+# Terminal 3: Run autonomous mission
+ros2 run amr_mission mission_node
+```
+
 ## Project Highlights
 Designed for warehouse automation and inventory patrol scenarios • Scalable architecture ready for Nav2 integration • Real-time obstacle detection with low-latency response • Demonstrates core robotics concepts (SLAM, autonomy, sensor fusion)
