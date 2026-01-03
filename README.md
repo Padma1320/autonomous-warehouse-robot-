@@ -56,3 +56,8 @@ ros2 run amr_mission mission_node
 
 ## Project Highlights
 Designed for warehouse automation and inventory patrol scenarios • Scalable architecture ready for Nav2 integration • Real-time obstacle detection with low-latency response • Demonstrates core robotics concepts (SLAM, autonomy, sensor fusion)
+### 🎥 Project Demo
+[Click here to watch the autonomous navigation video](demo.mp4)
+
+**Source Code:**
+[Download Project Code (Zip)](amr_mission.zip)
