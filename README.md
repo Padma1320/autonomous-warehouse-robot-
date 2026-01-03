@@ -1,6 +1,6 @@
 # Autonomous Warehouse Robot
 
-![Demo](docs/demo.jpg)
+![Demo](docs/demo.jpeg)
 *ROS2 Jazzy autonomous mobile robot with SLAM-based navigation and LiDAR obstacle detection*
 
 ## Overview
